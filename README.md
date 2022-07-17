@@ -6,6 +6,7 @@ To load the dataset, refer to the syntax below:
 ```
 from data import ChristmasImages
 ```
+The pre-requisite packages are mentioned in the ` requirement.txt  ` file
 The table below explains the content of each file 
 | File | Content |
 | ------ | ------ |
